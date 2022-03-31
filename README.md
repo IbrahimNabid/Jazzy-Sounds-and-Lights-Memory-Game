@@ -32,6 +32,8 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [X] Added a help button to provide user instructions on how to play the game
+- [X] Added new fonts to make game more interesting to interact with
+- [X] Added gradient color background to improve aesthetics of the game
 
 ## Video Walkthrough (GIF)
 
