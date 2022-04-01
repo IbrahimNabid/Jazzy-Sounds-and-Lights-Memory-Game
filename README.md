@@ -46,9 +46,13 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
    https://www.w3schools.com/colors/default.asp - I used this site to find different colors I can use for the website and eventually learned about gradient  color from here as well.
+   
    https://www.w3schools.com/cssref/css_websafe_fonts.asp - I used this site to find and learn about different fonts that I can use.
+   
    https://www.tutorialspoint.com/html/html_fonts.htm - I also used this site to learn more about font size and how I can alter it to my liking.
+   
    https://html.form.guide/snippets/css-button-rounded-corners/ - I also used this site to learn more about how I can alter the buttons because I was curious and wanted to learn more beyond just the description given in the prework instructions. I ended up following this website and made my buttons into circles.
+   
    https://www.w3schools.com/js/default.asp - I used this site to learn more about javascript and how I can improve my code.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
