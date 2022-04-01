@@ -44,7 +44,8 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ![](gif4-link-here)
 
 ## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
+
    https://www.w3schools.com/colors/default.asp - I used this site to find different colors I can use for the website and eventually learned about gradient  color from here as well.
    
    https://www.w3schools.com/cssref/css_websafe_fonts.asp - I used this site to find and learn about different fonts that I can use.
@@ -53,10 +54,11 @@ If you recorded multiple GIFs for all the implemented features, you can add them
    
    https://html.form.guide/snippets/css-button-rounded-corners/ - I also used this site to learn more about how I can alter the buttons because I was curious and wanted to learn more beyond just the description given in the prework instructions. I ended up following this website and made my buttons into circles.
    
-   https://www.w3schools.com/js/default.asp - I used this site to learn more about javascript and how I can improve my code.
+   https://www.w3schools.com/js/default.asp - I used this site to learn more about javascript and how I can improve my code. I especially used this to help me figure out how to create lists of random numbers in JavaScript.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+
+Another challenge that I encountered in creating this submission was that my start and stop buttons would not work. To be more specfic, although I had carefully followed all the instructions in the pre-work guide, my start and stop buttons would both appear simultaneously and even if I clicked on any of them, the other button would not hide. I proceeded to overcome this in a couple of steps. First, I compared my code with that of the pre-work guide and spent some time on getting a good understanding of the logic behind the code so I can debug if needed. Then I began playing around with the code and testing different bits to pinpoint which part was wrong. However, even after doing these two steps, I still could not find the error. Then, I decided to show my code to a friend and get a second opinion on what could be wrong. Although he could not find it either, he gave me advice and tips on how to debug in glitch such as using the terminal or logs option. After that
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
