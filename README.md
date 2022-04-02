@@ -40,7 +40,6 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![game2](https://user-images.githubusercontent.com/79735610/161360717-84894369-dc1d-4172-9fff-bcef5373dc92.gif)
 ![game1](https://user-images.githubusercontent.com/79735610/161360251-30311a29-3c69-4658-9012-ed37fd246e65.gif)
-![game3](https://user-images.githubusercontent.com/79735610/161361063-374a3328-4bfb-40c3-be2b-5a9fa63f8032.gif)
 
 
 
