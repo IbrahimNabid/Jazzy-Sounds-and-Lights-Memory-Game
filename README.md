@@ -1,6 +1,6 @@
-**Jazzy Lights and Sounds Memory Game**
+***Jazzy Sounds and Lights Memory Game***
 
-**Jazzy Lights and Sounds Memory Game** is a Light & Sound Memory game
+**Jazzy Sounds and Lights Memory Game** is a Light & Sound Memory game made from **HTML, CSS and Javascript** that tests the user's ability to remember a pattern of colors and sounds. 
 
 Link to project: 
 https://glitch.com/edit/#!/island-glittery-swan
