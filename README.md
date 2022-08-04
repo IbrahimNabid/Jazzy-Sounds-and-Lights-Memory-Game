@@ -1,6 +1,6 @@
-*Memory Game*
+**Jazzy Lights and Sounds Memory Game**
 
-**Memory Game** is a Light & Sound Memory game
+**Jazzy Lights and Sounds Memory Game** is a Light & Sound Memory game
 
 Link to project: 
 https://glitch.com/edit/#!/island-glittery-swan
